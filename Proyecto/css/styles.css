@@ -1,0 +1,28 @@
+h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    background-color: #2cbfc4;
+    color:  #ffffff
+}
+
+h2 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #2cbfc4
+}
+
+.subtitulo2 {
+    
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #422fac
+}
+
+hr {
+    border-color: #422fac
+}
+
+#imagenportada {
+    border:5px solid #2cbfc4;
+    display:block;
+    margin-left:auto;
+    margin-right:auto
+}
